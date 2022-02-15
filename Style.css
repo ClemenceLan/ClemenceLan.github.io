@@ -1,3 +1,13 @@
-h1 {
-    color: aqua;
-}
+ h1,div,h2 {
+    color: white;
+} 
+
+#imageprofilrond {border-radius: 50%;}
+body {background: rgb(254,166,171);
+background: linear-gradient(180deg, rgba(254,166,171,1) 4%, rgba(74,207,216,1) 56%, rgba(255,231,147,1) 92%);
+color: white;}
+.container h1 {font-family: 'Lobster', cursive;
+text-shadow: 6px 4px #EF737F;
+font-size: 3.5em;}
+h2{font-family: 'Spartan', sans-serif;}
+ul {list-style: none;}
